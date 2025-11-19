@@ -9,6 +9,7 @@
     "learning": "file:../../features/learning",
     "map": "file:../../features/map",
     "quickstart": "file:../../features/quickstart",
-    'utils': "file:../../commons/utils"
+    'utils': "file:../../commons/utils",
+    'security': "file:../../features/security"
   }
 }
